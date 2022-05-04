@@ -99,7 +99,8 @@ Think in terms of the dice, we have several different faces. How are we going to
   
   
   How did you test these changes?
-  
+   <img width="994" alt="image" src="https://user-images.githubusercontent.com/94476382/166679859-22f67845-3076-4b77-a3c7-4703cc10503b.png">
+
   
   ## Extension Task - Can you add a button to change the value of the dice? 
   [p5.js Button Documentation](https://p5js.org/reference/#/p5/createButton) Using this documentation, can you add a button to change the value of the dice being displayed? 
