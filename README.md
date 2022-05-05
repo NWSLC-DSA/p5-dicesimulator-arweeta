@@ -108,7 +108,8 @@ Think in terms of the dice, we have several different faces. How are we going to
   Take a minute and think about this, what needs to change? 
 
   *Write down the process you want the user to do in order to 'roll the dice'.* What does this include? 
-  
+  <img width="1071" alt="image" src="https://user-images.githubusercontent.com/94476382/166910357-e41d63e1-7188-4516-b610-2ce54a73980d.png">
+
   
 </details>
   
